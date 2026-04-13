@@ -14,7 +14,7 @@
 
 </p>
 
-**script termux tembak paket kartu xl ini untuk kebutuhan paket internet murah
+script termux tembak paket kartu xl ini untuk kebutuhan paket internet murah
 ---
 
 ## ⚠️ Disclaimer
